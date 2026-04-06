@@ -60,5 +60,3 @@ struct ContentView: View {
     }
 }# kt12143-dev
 
-git config user.email < my new email >
-git config user.name  < my new name >
